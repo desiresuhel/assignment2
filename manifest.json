@@ -1,0 +1,35 @@
+{
+	"name":"Confessions",
+	"short_name":"Confess",
+	"icons":[
+		{
+			"src":"images/confessions.jpeg",
+			"size":"400x400",
+			"type":"image/jpeg"
+
+
+		},
+
+		{
+			"src":"images/iphone.jpeg",
+			"size":"100x100",
+			"type":"image/jpeg"
+
+
+		},
+
+		{
+			"src":"images/top_hat.jpeg",
+			"size":"100x100",
+			"type":"image/jpeg"
+
+
+		},
+	],
+	"lang":"en-us",
+	"start_url":"index.html",
+	"display":"standalone",
+	"background_color":"white",
+	"theme_color":"white"
+
+}
