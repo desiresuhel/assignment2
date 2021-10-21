@@ -1,9 +1,9 @@
 var cacheName = 'cofessions-pwa';
 var filesToCache = [
 '/',
-'index.html',
-'style.css',
-'main.js'];
+'/index.html',
+'/style.css',
+'/main.js'];
 
 self.addEventListener('install',function(e){
 	e.waitUntil(caches.open(cacheName).then(function(cache){
